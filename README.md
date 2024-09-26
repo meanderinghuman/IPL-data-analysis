@@ -17,7 +17,7 @@ This project involves analyzing large-scale IPL (Indian Premier League) match da
 
 ## Requirements
 
-- Python 3.7+
+- Python 
 - Apache Spark with PySpark
 - Jupyter Notebook (optional, for running the analysis in a notebook environment)
 
